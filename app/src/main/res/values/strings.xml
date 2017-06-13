@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Private Reader</string>
+    <string-array name="menu_array">
+        <item>新闻版块</item>
+        <item>小说版块</item>
+        <item>娱乐版块 </item>
+    </string-array>
+    <string-array name="news_history">
+        <item>还没做</item>
+    </string-array>
+    <string-array name="news_others">
+        <item>也没做</item>
+    </string-array>
+    <string name="navigation_drawer_open">Draw Open</string>
+    <string name="navigation_drawer_close">Draw Close</string>
+</resources>
